@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+
+# Node (render verification tooling)
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
