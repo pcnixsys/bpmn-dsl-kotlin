@@ -72,7 +72,3 @@ DSL consumes *trusted programs written by the team*; untrusted authoring
 requires a constrained schema + validated compilation step, never raw strings
 into `Expression` bodies.
 
-## Reading the plan
-
-`PLAN.md` is the master plan; `plan/phase-*.md` carries per-phase detail,
-status, and acceptance evidence. `plan/` reflects the implemented reality.
